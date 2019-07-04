@@ -2,14 +2,10 @@
 
 This git repository includes Machine Learning projects for solving regression tasks
 
-## Category
+### Category
 
 Supervised Learning - Regression
 
-## Folder Structure
-
-This repository contains two folders consisting of different projects with their respective README file
-
-## License
+### License
 
 For more information about distribution licenses check [Licences Pages](https://choosealicense.com/licenses/)
